@@ -20,20 +20,16 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hello {}, my name is {}!
+PM_START = """Hey there! I'm Ismart Bot here to help to manage your groups. Click HELP ❓ button to know more about my full potential use. 
 
-I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it.
-Destiny still arrives. Or should I say, I have.
+Made with love by @Anonymouskxd
 
-I'm world manager bot maintained by [this awesome person](https://t.me/Unknown_Hacker_005_X)!
-
-Click Help button to find out more about how to use me to my full potential.
-
-Special Thanks to @noobanon sar
+What to add me to your group(s)?  [Click Here! ](http://telegram.me/Ismart_RoBot?startgroup=botstart) 
 
 
 
-Earth. That is my price.!"""
+
+"""
 
 
 IMPORTED = {}
