@@ -17,5 +17,5 @@ You can also join our support group [here!](https://t.me/HarukaAyaBot)
 * FFBot - for translations functions
 And much more that we couldn't list it here!
 
-# Added deploy 
-[![Deploy](https://t.me/unknown_hacker_x)
+# Ask Owner
+[![Telegram](https://t.me/unknown_hacker_x)
